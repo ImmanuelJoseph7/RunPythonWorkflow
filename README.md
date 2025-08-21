@@ -15,8 +15,8 @@ RunPythonWorkflow/
 ├── test.py # Example Python script  
 ├── requirements.txt # Python dependencies  
 └── .github/  
-  └── workflows/  
-    └── run-script.yml # Workflow definition  
+    └── workflows/  
+        └── run-script.yml # Workflow definition  
 
 ## Running Locally
 
