@@ -11,14 +11,14 @@ It’s a minimal example designed for data engineers who want to integrate data 
 
 ## Repository Structure
 
-RunPythonWorkflow/
-├── test.py # Example Python script
-├── requirements.txt # Python dependencies
-└── .github/
-└── workflows/
-└── run-script.yml # Workflow definition
+RunPythonWorkflow/  
+├── test.py # Example Python script  
+├── requirements.txt # Python dependencies  
+└── .github/  
+└── workflows/  
+└── run-script.yml # Workflow definition  
 
 ## Running Locally
 
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python test.py
